@@ -1,0 +1,40 @@
+Prince Blagmon, Yeislly Rodriguez
+Amy Sliva
+Database Management Systems
+CS2256 Project Proposal – (Online Sneaker Database)
+
+Domain
+For our project we will create a database to be used online by the sneaker community. The database will store information about Adidas, Nike, and New Balance sneakers, and select upcoming businesses. Shoe name, color way, size range, release date, price, a hype score and drop locations.
+When a sneaker releases, customers like to know in advance where and when, in order to be first in line for a shoe. New and past color ways can be released online and/or in store at all times of the year. Each shoe has a specific name, color way, size range, past and/or new release date, price, public hype for the shoe, and drop location
+
+Motivation
+Many like to bulk buy highly demanded sneakers to get a profit, by “cheating”, using computers to enter sneaker sales and raffles. When sneakers are released it’s sometimes hard to find out when and where they will be available. When a popular shoe is set to release, many want hands on it, so being one of the first to know when and where, can increase chances of purchasing the shoe for retail price upon release. Our users will be our account holders, using our database for sneaker release information. Small businesses can also see traffic for each shoe to receive hype data. Users can look at a specific month to see the date of release for a specific shoe. Users will be able to access information such as all release dates of the specific shoe, ranges of sizes released, its color way, name, price and where it has or will be released.
+We will customize an application to update data on the site and app. Account holders see a score of public hype for the shoe, created by the site owner, based on social media research. Site will be a place for customers and brands to have easy access to bulk information on release history. This information will allow the customer to estimate their likelihood or chance of purchasing a sneaker on a release date.
+Account holders will be able to access the site or app and look at shoe releases for each month of the year. Sneakers will be updated daily ( release date and locations, size, price, color way, name, size information) upon announcement or confirmation of release by each brand using SQL. By creating an account and accessing this information, regular sneaker customers will have a higher chance of grabbing their ideal sneaker without paying extreme seller fees. The site will also have tips provided for landing a purchase of some shoes.
+This database will store years worth of information available to its online members who will always be able to access all sneaker history.
+
+Data Needs
+What is the name of the shoe?
+How many people registered to make an account for the website database?
+How many people registered to make an account for the app database?
+How many registered users are there?
+What is the engagement for each brand?
+What sizes are available ?
+What stores will these shoes be available in?
+What websites will have these shoes available?
+What is the color way of the shoe ?
+How many color ways are available?
+How much is the shoe?
+How many shoes will be available total?
+What brand is the most popular? (less in stock)
+What brand is the least popular? (more in stock)
+What shoe is the most expensive?
+What shoe is the least expensive?
+When are the most sneakers set to release this year?
+How many users are visiting each brand?
+How many users are visiting each shoe?
+What are the top five cities for sneaker availability?
+How can I contact specific stores?
+How many Nike shoes are available?
+How many Adidas shoes are available?
+How many New Balances shoes are available?
